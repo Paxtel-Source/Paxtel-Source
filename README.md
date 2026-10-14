@@ -6,7 +6,7 @@
 <!-- ========================= TYPING ANIMATION ========================= -->
 <p align="center">
   <a href="https://github.com/Paxtel-Source">
-    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=24&duration=3200&pause=900&color=00A86B&center=true&vCenter=true&width=680&lines=Estudante+de+Engenharia+de+Software+na+UNIFAE;Escrevendo+c%C3%B3digo+em+C%2C+Python%2C+HTML+e+CSS;Em+busca+de+est%C3%A1gio+em+desenvolvimento+de+sistemas" alt="Estudante de Engenharia de Software na UNIFAE. Escrevendo código em C, Python, HTML e CSS. Em busca de estágio em desenvolvimento de sistemas.">
+    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=24&duration=3200&pause=900&color=00A86B&center=true&vCenter=true&width=680&lines=Estudante+de+Engenharia+de+Software+na+UNIFAE;Escrevendo+c%C3%B3digo+em+C%2C+Python%2C+JavaScript%2C+HTML+e+CSS;Em+busca+de+est%C3%A1gio+em+desenvolvimento+de+sistemas" alt="Estudante de Engenharia de Software na UNIFAE. Escrevendo código em C, Python, JavaScript, HTML e CSS. Em busca de estágio em desenvolvimento de sistemas.">
   </a>
 </p>
 
@@ -17,6 +17,7 @@ Oi, eu sou o Gabriel. Estou no 2º semestre de **Engenharia de Software na UNIFA
 
 - ⬢ Em C, fiz programas de terminal que vão de uma calculadora a um compactador de arquivos com RLE.
 - ⬢ Em HTML e CSS, montei páginas que estão no ar pelo GitHub Pages, incluindo o meu currículo.
+- ⬢ Em JavaScript, fiz uma busca de CEP que consulta uma API, um teste de digitação e um gerador de paletas de cores.
 - ⬢ Meu dia a dia de código passa pelo **VS Code**, pelo **Dev-C++** e pelo **Claude Code**.
 - ⬢ Também fiz o curso de **Informática Profissional** no Grupo Data Center.
 - ⬢ Agora estou procurando **estágio em desenvolvimento de sistemas**, para aplicar o que estudo em programação e banco de dados.
@@ -45,6 +46,9 @@ Oi, eu sou o Gabriel. Estou no 2º semestre de **Engenharia de Software na UNIFA
   <a href="https://github.com/Paxtel-Source/Projetos-HTML-CSS">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Paxtel-Source&repo=Projetos-HTML-CSS&bg_color=070A09&title_color=00A86B&text_color=E6F2EC&icon_color=3DDC97&border_color=1B3B2F&description_lines_count=2" alt="Projetos em HTML e CSS">
   </a>
+  <a href="https://github.com/Paxtel-Source/Projetos-JavaScript">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Paxtel-Source&repo=Projetos-JavaScript&bg_color=070A09&title_color=00A86B&text_color=E6F2EC&icon_color=3DDC97&border_color=1B3B2F&description_lines_count=2" alt="Projetos em JavaScript">
+  </a>
   <!--
     Para adicionar outro projeto, copie um dos blocos <a>...</a> acima e troque
     o nome do repositório nos dois lugares (no href e no parâmetro repo=).
@@ -53,7 +57,10 @@ Oi, eu sou o Gabriel. Estou no 2º semestre de **Engenharia de Software na UNIFA
 
 <p align="center">
   <a href="https://paxtel-source.github.io/Projetos-HTML-CSS/">
-    <img src="https://img.shields.io/badge/Ver%20as%20p%C3%A1ginas%20no%20ar-00A86B?style=for-the-badge&logo=githubpages&logoColor=070A09" alt="Ver as páginas no ar">
+    <img src="https://img.shields.io/badge/HTML%20e%20CSS%20no%20ar-00A86B?style=for-the-badge&logo=githubpages&logoColor=070A09" alt="Ver os projetos de HTML e CSS no ar">
+  </a>
+  <a href="https://paxtel-source.github.io/Projetos-JavaScript/">
+    <img src="https://img.shields.io/badge/JavaScript%20no%20ar-00A86B?style=for-the-badge&logo=javascript&logoColor=070A09" alt="Ver os projetos de JavaScript no ar">
   </a>
 </p>
 
@@ -62,7 +69,7 @@ Oi, eu sou o Gabriel. Estou no 2º semestre de **Engenharia de Software na UNIFA
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Paxtel-Source&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&bg_color=070A09&title_color=00A86B&text_color=E6F2EC&icon_color=3DDC97&ring_color=00A86B&border_color=1B3B2F" alt="Estatísticas do GitHub de Paxtel-Source">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paxtel-Source&layout=compact&langs_count=6&locale=pt-br&bg_color=070A09&title_color=00A86B&text_color=E6F2EC&border_color=1B3B2F" alt="Linguagens mais usadas">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paxtel-Source&layout=compact&langs_count=6&hide=makefile&locale=pt-br&bg_color=070A09&title_color=00A86B&text_color=E6F2EC&border_color=1B3B2F" alt="Linguagens mais usadas">
 </p>
 
 <p align="center">
