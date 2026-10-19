@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "arco-iris-tintas",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "5510", "--directory", "C:\\Users\\Usuario\\Documents\\GitHub\\arco-iris-tintas"],
+      "port": 5510
+    }
+  ]
+}
